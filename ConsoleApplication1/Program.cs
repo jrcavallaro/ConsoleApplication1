@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             // that's change #1
             // that's change #2
+            // that's change #3 
         }
     }
 }
